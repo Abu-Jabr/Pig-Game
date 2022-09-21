@@ -2,6 +2,8 @@ First, I'll like to give credits to Jonas Schmedtmann for designing this project
 
 This is a simple static DOM game that can be played by 2 players using the same device
 
+To open game, just open the index.html file in the root folder using a web browser.
+
 GAME RULES:
 
 - The game has 2 players, playing in rounds
@@ -11,5 +13,6 @@ GAME RULES:
 - If a player rolls a 6 on any dice consecutively on a single turn, the player's GLOBAL score will be reset to 0
 - By default, the first player to reach 100 points on GLOBAL score wins the game
 - However, the winning score can be set to any desired amount by typing in the input box below the hold button, the winning score is automatically updated and is checked after a player finishes a turn
+- Any player can choose to restart the game at any point during or after the game
 
 Enjoy!
